@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\учеба\АиА\laba4\laba4\Source.cpp(22,6): warning C4101: res: неиспользованная локальная переменная
+D:\учеба\АиА\laba4\laba4\Source.cpp(75,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  laba4.vcxproj -> D:\учеба\АиА\laba4\x64\Debug\laba4.exe
